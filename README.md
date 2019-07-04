@@ -12,7 +12,7 @@ If you need ObjC support use - https://github.com/Serheo/SHSPhoneComponent/
 
 #### Carthage
 ```
-github "Serheo/PhoneNumberFormatter"
+github "zhenjiangliu24/PhoneNumberFormatter"
 ```
 #### CocoaPods
 ```
