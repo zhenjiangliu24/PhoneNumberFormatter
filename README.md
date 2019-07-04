@@ -5,7 +5,7 @@
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 UITextField and NSFormatter subclasses for formatting phone numbers. Allow different formats for different countries(patterns). Caret positioning works excellent.
-Swift 4. <br/>
+Swift 5. <br/>
 If you need ObjC support use - https://github.com/Serheo/SHSPhoneComponent/
 
 ## Installation
